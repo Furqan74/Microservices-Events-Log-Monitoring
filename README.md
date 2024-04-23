@@ -43,9 +43,16 @@ CONCLUSION​
 BY MONITORING TRAEFIK LOGS WITH PROMETHEUS, WE HAVE ESTABLISHED A COMPREHENSIVE MONITORING SOLUTION THAT PROVIDES VISIBILITY INTO THE BEHAVIOR AND PERFORMANCE OF TRAEFIK WITHIN OUR KUBERNETES ENVIRONMENT. THIS SETUP ENHANCES OUR ABILITY TO TROUBLESHOOT ISSUES, OPTIMIZE PERFORMANCE, AND ENSURE THE RELIABILITY OF OUR MICROSERVICES ARCHITECTURE.​
 
 ​​Traefik:
+![Capture PNG 3](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/cf927ebe-b32e-4b95-9ca7-28dd4ef350df)
+![Capture PNG 2](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/6fd9e764-da64-4eb9-9b6c-234fff826b48)
+![Capture](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/8de61fba-522f-4a6e-8127-f661ecc1365e)
 ![1](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/4ddaf6e4-552e-4400-90e6-4971c735a72d)
 ![1b](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/a32cba0d-dc53-48d5-9786-d5a57efa2b15)
 ![2  Node Exporter active](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/9ae162f1-b367-4f0c-aa29-95f281507483)
+![3  node exporter active logs](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/8e32d692-5115-4746-a62f-231b433a6c46)
+![4 when stop](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/f5251c46-fb59-47b0-8907-c7aa7b4d7d6b)
+![5](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/85682104-b14e-4436-b751-04eee6e90f8f)
+![6  service down when clicked on url to see logs](https://github.com/Furqan74/Microservices-Events-Log-Monitoring/assets/54634690/a8c92f32-699d-431f-acda-cc267644e64b)
 
 ​
 
